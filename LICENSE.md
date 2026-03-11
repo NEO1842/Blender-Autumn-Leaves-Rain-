@@ -3,7 +3,7 @@ You are free to use, modify, and redistribute this project under the MIT License
 
 If you redistribute this file or a modified version of it, please include a link to the original repository:
 
-Original Repository: https://github.com/NEO1842/Blender
+Original Repository: https://github.com/NEO1842/Blender-Autumn-Leaves-Rain-
 
 Some image assets used in this project (such as particle textures) were created by third parties and are subject to their own licenses.
 
@@ -15,7 +15,7 @@ See the "Material License (Credits)" section in the README for deta
 
 このファイルまたはその改変版を再配布する場合は、元のリポジトリへのリンクを含めてください。
 
-元のリポジトリ: https://github.com/NEO1842/Blender
+元のリポジトリ: https://github.com/NEO1842/Blender-Autumn-Leaves-Rain-
 
 このプロジェクトで使用されている一部の画像アセット (パーティクル テクスチャなど) はサードパーティによって作成されたものであり、独自のライセンスが適用されます。
 
