@@ -1,6 +1,6 @@
 ---English---
 
-AutumnLeavesRain -Blender Particle Scene (Raspberry Pi Render)
+Autumn-Leaves-Rainfall -Blender Particle Scene (Raspberry Pi Render)
 
 A simple autumn particle scene rendered in Blender on a Raspberry Pi.
 
@@ -21,15 +21,21 @@ Please try rendering a video!
 
 ---日本語---
 
-これは、Blender 用の秋の葉のパーティクル シーンのレンダリング画像です。
+紅葉と雨 - Blender パーティクルシーン (Raspberry Pi レンダリング)
 
-レンダリング設定 
+Raspberry Pi 上の Blender でレンダリングされたシンプルな秋のパーティクル シーン。
 
-レンダリング エンジン: Cycles 
+基本的なパーティクル システムを使用して、雨のように落ちる輝く AutumnLeaves を作成するための軽量セットアップ。
 
-サンプリング レート: 128 
+レンダリングエンジン：Cycles
 
-ノイズ除去: なし。
+サンプル数：128
+
+ノイズ除去：なし
+
+ハードウェア：Raspberry Pi
+
+シーンタイプ: パーティクルシステム
 
 ぜひ動画のレンダリングをお試しください！
 
