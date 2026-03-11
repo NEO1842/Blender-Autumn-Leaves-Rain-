@@ -28,7 +28,7 @@ Please note that it may not be considered public domain outside Japan.
 
 Redistribution
 
-If you redistribute this project, please include a link to the original repository.
+See here https://github.com/NEO1842/Blender-Autumn-Leaves-Rain-/blob/main/LICENSE.md
 
 Disclaimer
 
@@ -66,7 +66,7 @@ Blenderバージョン: 3.4 レンダリングエンジン:Cycles
 
 再分配
 
-このプロジェクトを再配布する場合は、元のリポジトリへのリンクを含めてください。
+こちらをご覧ください https://github.com/NEO1842/Blender-Autumn-Leaves-Rain-/blob/main/LICENSE.md
 
 免責事項
 
