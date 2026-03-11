@@ -12,8 +12,6 @@ Denoising: None.
 
 Please try rendering a video! 
 
-Please note that some parts of the text may be awkward due to automatic translation
-
 
 ---日本語---
 
@@ -28,7 +26,5 @@ Please note that some parts of the text may be awkward due to automatic translat
 ノイズ除去: なし。
 
 ぜひ動画のレンダリングをお試しください！
-
-自動翻訳のため、テキストの一部が分かりにくい場合がありますのでご了承ください。
 
 ![Preview](Autumn%20Leaves%20Rain.png)
