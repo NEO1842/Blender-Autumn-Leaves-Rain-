@@ -1,14 +1,20 @@
 ---English---
 
-This is a rendered image of an autumn leaves particle scene for Blender. 
+AutumnLeavesRain -Blender Particle Scene (Raspberry Pi Render)
 
-Rendering settings
+A simple autumn particle scene rendered in Blender on a Raspberry Pi.
 
-Render engine: Cycles
+Lightweight setup using basic particle systems to create glowing AutumnLeaves falling like rain.
 
-Sampling rate: 128
+Render Engine: Cycles
 
-Denoising: None.
+Samples: 128
+
+Denoise: None
+
+Hardware: Raspberry Pi
+
+Scene Type: Particle System
 
 Please try rendering a video! 
 
