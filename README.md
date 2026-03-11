@@ -48,7 +48,7 @@ Blenderバージョン: 3.4 レンダリングエンジン:Cycles
 
 使い方
 
-1.Autumn Leaves Rain.blendをダウンロードして開きます。
+1. **Autumn Leaves Rain.blend**をダウンロードして開きます。
 
 2.画像リソースは Blender ファイル内にパックされています。
 
