@@ -10,6 +10,8 @@ Some image assets used in this project (such as particle textures) were created 
 When redistributing this project, please make sure that the licenses of those assets are not violated.
 See the "Material License (Credits)" section in the README for deta
 
+---
+
 再配布に関する通知
 このプロジェクトは、MIT ライセンスに基づいて自由に使用、変更、再配布できます。
 
