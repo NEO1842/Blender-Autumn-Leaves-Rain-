@@ -1,4 +1,4 @@
-English
+---English---
 
 Rain of Autumn Leaves – Blender Particle Scene (Raspberry Pi Render)
 
@@ -20,7 +20,7 @@ Scene Type: Particle System
 
 Try rendering it as a video!
 
-日本語
+---日本語---
 
 紅葉の雨 – Blender パーティクルシーン (Raspberry Pi レンダリング)
 
