@@ -1,3 +1,8 @@
+<div align="center">
+<img src="Autumn Leaves Rain/Autumn Leaves Rain.png" width="600">
+</a>
+
+
 Autumn Leaves Rain
 
 This is a Blender scene for scattering autumn leaf images using a particle system.
@@ -9,9 +14,9 @@ Render Engine:Cycles
 
 How to Use
 
-1. Download and open **Autumn Leaves Rain.blend**.
-2. Image resources are packed inside the Blender file.
-3. If the texture does not appear, try:
+　1. Download and open **Autumn Leaves Rain.blend**.
+　2. Image resources are packed inside the Blender file.
+　3. If the texture does not appear, try:
 File → External Data → Unpack Resources
 
 Material License (Credits)
@@ -38,6 +43,10 @@ Please follow the laws of your country and the license terms of the original mat
 
 ---
 
+<div align="center">
+<img src="Autumn Leaves Rain/Autumn Leaves Rain.png" width="600">
+</a>
+
 紅葉の雨
 
 パーティクル システムを使用して秋の葉の画像を散りばめる Blender シーンです。
@@ -48,11 +57,11 @@ Blenderバージョン: 3.4 レンダリングエンジン:Cycles
 
 使い方
 
-1. **Autumn Leaves Rain.blend**をダウンロードして開きます。
+　1. **Autumn Leaves Rain.blend**をダウンロードして開きます。
 
-2. 画像リソースは Blender ファイル内にパックされています。
+　2. 画像リソースは Blender ファイル内にパックされています。
 
-3. テクスチャが表示されない場合は、次の操作を試してください: ファイル → 外部データ → リソースの解凍
+　3. テクスチャが表示されない場合は、次の操作を試してください: ファイル → 外部データ → リソースの解凍
 
 素材ライセンス（クレジット）
 
