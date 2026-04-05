@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Autumn Leaves Rain/Autumn Leaves Rain.png" width="600">
+<img src="Blender Autumn Leaves Rain/Autumn Leaves Rain.png" width="600">
 </a>
 
 
@@ -44,7 +44,7 @@ Please follow the laws of your country and the license terms of the original mat
 ---
 
 <div align="center">
-<img src="Autumn Leaves Rain/Autumn Leaves Rain.png" width="600">
+<img src="Blender Autumn Leaves Rain/Autumn Leaves Rain.png" width="600">
 </a>
 
 紅葉の雨
